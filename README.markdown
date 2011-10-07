@@ -1,7 +1,7 @@
-Это перевое приложения для Ruby и Rails.
+# Ruby on Rails Tutorial: First Application
 
-Изучаю по руководству
+It is a first application
+Readme works only on English. Not Russian.
 
-http://russian.railstutorial.org/chapters/beginning#sec:git_commands
-
-:)
+[*Ruby on Rails Tutorial: Изучение Rails на Примерах*](http://railstutorial.org/)
+ [Майкл Хартл](http://michaelhartl.com/).
